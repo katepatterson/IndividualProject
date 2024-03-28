@@ -1,5 +1,5 @@
 # Build-A-Monster
-about: 
+about: Choose characteristics to create a monster
 
 # UML
 
