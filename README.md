@@ -1,5 +1,5 @@
 # Build-A-Monster
-about: Choose characteristics to create a monster
+about: A game where the user chooses characteristics to create a monster
 
 # UML
 
