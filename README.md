@@ -1,8 +1,8 @@
-# Build-A-Monster
-about: A game where the user chooses characteristics to create a monster
+# MadLibs Clone
+about: A game where the user makes their own stories by filling out blanks where words have been left out of the story
 
 # UML
-![UML](https://github.com/katepatterson/IndividualProject/blob/main/images/BAM_UML.jpeg)
+![UML]()
 
 # GUI
-![GUI](https://github.com/katepatterson/IndividualProject/blob/main/images/monster.drawio)
+![GUI]()
