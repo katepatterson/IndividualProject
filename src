@@ -1,1 +1,27 @@
+print("Welcome to MadLibs Clone!")
+choose = input("Pick a MadLibs story: 1 for , 2 for , or 3 for  ")
 
+if choose == "1":
+  print("You chose")
+  from madlib1 import Madlib1
+  madlib1 = Madlib1()
+elif choose == "2":
+  from madlib2 import Madlib2
+  madlib2 = Madlib2
+elif choose == "3":
+  from madlib3 import Madlib3
+  madlib3 = Madlib3
+else:
+  print("Invalid choice")
+  print(choose)
+
+print("Thanks for playing!")
+again = input("Would you like to play again?")
+yes_response = ["yea","yes","yeah","yep","yup","of course","sure","ok","okay"]
+
+if again == yes_response:
+  print("Okay, let's play again!")
+  print(choose)
+#elif:
+  #print("Okay, see you again soon!")
+  
